@@ -1,0 +1,13 @@
+Test task
+
+Requirements:
+
+1. HTML5
+2. CSS3
+3. no frameworks (bootstarp, colgird etc)
+4. sass/scss will be good bonus
+5. JS - Jquery, Jquery UI is fine
+6. responsive (wide screen, tablet, phone)
+7. support all browsers (IE is browser too :(  )
+8. no need to full support of IE7/8, but will be good bonus (graceful degradation, progressive enhancement on your choise)
+9. 12h - EST
